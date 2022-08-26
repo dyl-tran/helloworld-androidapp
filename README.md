@@ -37,7 +37,7 @@ Had inital trouble setting up my development environment with Android Studio. Th
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2022] [Dylan Tran]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
